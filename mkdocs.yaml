@@ -1,0 +1,11 @@
+site_name: 'users'
+site_description: 'Main documentation for users'
+repo_url: https://github.com/jaysuzi5/users
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'
